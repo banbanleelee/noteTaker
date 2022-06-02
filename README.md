@@ -13,7 +13,7 @@ As a user, I want to have an app to record my daily notes, and need to review th
 This app is using REST routes to achieve such objectives, by editing a JSON file.
 
 Deployed Application:
-https://banbanleelee.github.io/noteTaker/
+https://dry-meadow-05224.herokuapp.com
 
 
 ![demo picture](./public/assets/images/image1.PNG)
